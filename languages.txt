@@ -1,0 +1,5 @@
+What is your favorite programming language? Why?
+My favorite rogramming language is Java, because it is object oriented and allows me to create multiple instances of objects without needing to create entities over and over. It also is easy to understand and explore for beginners.
+
+Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+Correct, my favorite language is the one I'm most experienced with. I've spent over 4 years on Java now.
